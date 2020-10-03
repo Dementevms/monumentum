@@ -1,0 +1,17 @@
+{
+  "name": "monumentum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2",
+    "node-sass": "^4.14.1"
+  }
+}
